@@ -1,5 +1,5 @@
 # Victoria2-AmericanHistory
-"American History" submod for the Victoria 2 mod H"istorical Project Mod" HPM
+"American History" submod for the Victoria 2 mod "Historical Project Mod" HPM
 
 
 To install: Extract the archive into your existing HPM directory, overwriting files as-needed.
